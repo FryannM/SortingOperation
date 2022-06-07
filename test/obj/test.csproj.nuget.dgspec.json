@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/macboockpro/Desktop/Personal/workingr/SortingOperation/test/test.csproj": {}
+  },
+  "projects": {
+    "/Users/macboockpro/Desktop/Personal/workingr/SortingOperation/SortingOperation/SortingOperation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/macboockpro/Desktop/Personal/workingr/SortingOperation/SortingOperation/SortingOperation.csproj",
+        "projectName": "SortingOperation",
+        "projectPath": "/Users/macboockpro/Desktop/Personal/workingr/SortingOperation/SortingOperation/SortingOperation.csproj",
+        "packagesPath": "/Users/macboockpro/.nuget/packages/",
+        "outputPath": "/Users/macboockpro/Desktop/Personal/workingr/SortingOperation/SortingOperation/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/macboockpro/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreApp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreApp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreApp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/macboockpro/Desktop/Personal/workingr/SortingOperation/test/test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/macboockpro/Desktop/Personal/workingr/SortingOperation/test/test.csproj",
+        "projectName": "test",
+        "projectPath": "/Users/macboockpro/Desktop/Personal/workingr/SortingOperation/test/test.csproj",
+        "packagesPath": "/Users/macboockpro/.nuget/packages/",
+        "outputPath": "/Users/macboockpro/Desktop/Personal/workingr/SortingOperation/test/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/macboockpro/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreApp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreApp3.1",
+            "projectReferences": {
+              "/Users/macboockpro/Desktop/Personal/workingr/SortingOperation/SortingOperation/SortingOperation.csproj": {
+                "projectPath": "/Users/macboockpro/Desktop/Personal/workingr/SortingOperation/SortingOperation/SortingOperation.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreApp3.1",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.408/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

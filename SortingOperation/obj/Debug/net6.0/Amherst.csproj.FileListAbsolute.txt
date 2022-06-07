@@ -1,0 +1,15 @@
+C:\Users\kevHe\source\repos\Amherst\Amherst\bin\Debug\net6.0\Amherst.exe
+C:\Users\kevHe\source\repos\Amherst\Amherst\bin\Debug\net6.0\Amherst.deps.json
+C:\Users\kevHe\source\repos\Amherst\Amherst\bin\Debug\net6.0\Amherst.runtimeconfig.json
+C:\Users\kevHe\source\repos\Amherst\Amherst\bin\Debug\net6.0\Amherst.dll
+C:\Users\kevHe\source\repos\Amherst\Amherst\bin\Debug\net6.0\ref\Amherst.dll
+C:\Users\kevHe\source\repos\Amherst\Amherst\bin\Debug\net6.0\Amherst.pdb
+C:\Users\kevHe\source\repos\Amherst\Amherst\obj\Debug\net6.0\Amherst.csproj.AssemblyReference.cache
+C:\Users\kevHe\source\repos\Amherst\Amherst\obj\Debug\net6.0\Amherst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevHe\source\repos\Amherst\Amherst\obj\Debug\net6.0\Amherst.AssemblyInfoInputs.cache
+C:\Users\kevHe\source\repos\Amherst\Amherst\obj\Debug\net6.0\Amherst.AssemblyInfo.cs
+C:\Users\kevHe\source\repos\Amherst\Amherst\obj\Debug\net6.0\Amherst.csproj.CoreCompileInputs.cache
+C:\Users\kevHe\source\repos\Amherst\Amherst\obj\Debug\net6.0\Amherst.dll
+C:\Users\kevHe\source\repos\Amherst\Amherst\obj\Debug\net6.0\ref\Amherst.dll
+C:\Users\kevHe\source\repos\Amherst\Amherst\obj\Debug\net6.0\Amherst.pdb
+C:\Users\kevHe\source\repos\Amherst\Amherst\obj\Debug\net6.0\Amherst.genruntimeconfig.cache
